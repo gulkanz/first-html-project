@@ -1,5 +1,4 @@
-# first-html-project
-<!DOCTYPE html>
+<img width="1234" alt="Ekran görüntüsü 2022-10-23 174434" src="https://user-images.githubusercontent.com/116514907/197410727-d8c16ebc-25d0-4928-879b-2cef3dc41248.png">
 <html lang="tr">
 
 <head>
